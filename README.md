@@ -1,11 +1,10 @@
 # About This Project
 This is an UI of emotional first aid site made using React, Tailwind
-After clicking on Create New Account on Sign Up page you will be redirected to landing page where only Latest link will work.
+After clicking on Create New Account on Sign Up page you will be redirected to landing page where only Latest link will work. This is just a design with limited functionality.
 Steps to navigate all pages: 
-1. Create New Account
-2. Latest
+1. Click on Create New Account
+2. Then Latest
 3. Badge Modal
-This is just a design with limited functionality.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
